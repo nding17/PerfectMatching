@@ -11,8 +11,8 @@ as well as how I implemented the algorithm.
 to run the program, simply run 
 TestPerfectMatching.java under /src catelog
 
-***
-more details regarding running instructions:
+
+**more details regarding running instructions
 
 in order to see whether the algorithm works
 you can simply run TestPerfectMatching.java
@@ -28,5 +28,4 @@ find as many matched nodes as possible.
 Later on we will use depth first search (brute
 force) to search all possible paths and find an
 augmenting path as introduced by the textbook.
-*** 
 ```
